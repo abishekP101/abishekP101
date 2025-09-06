@@ -9,7 +9,7 @@
 - 🌱 Actively learning and building with **PyTorch, TensorFlow, MLflow, LangChain, AWS, and more**.
 - 💡 Passionate about **NLP, RAG (Retrieval-Augmented Generation), Machine Learning, Deep Learning, LLM Fine Tuning, and scalable MLOps**.
 - ⚡ Fun fact: I love automating workflows and deploying models from notebooks to production!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-link) <!-- Add your real link! -->
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/abishek-prasad-a65980280) <!-- Add your real link! -->
 
 ---
 
